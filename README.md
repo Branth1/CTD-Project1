@@ -70,7 +70,7 @@ Cabled Array ›Axial Base Deep Profiler
 
 The data was analyzed utilizing the code found in the link above. First the data was imported, the variables needed were defined and the plots necessary were constructed. The resulting plots are seen below.
 
-**Coastal Endurance › Oregon Shelf Surface Piercing Profiler Mooring**
+**Coastal Endurance › Oregon Shelf Surface Piercing Profiler Mooring**</br>
 ###Winter
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF1_Winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF1_winter_depthVSssp.png)
