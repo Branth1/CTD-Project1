@@ -22,7 +22,7 @@ It should be noted that although it is ideal to have all data collected on the s
 
         5-Compare the SSP profiles of all profilers recorded at same day in summer and winter.
 
-** The devices and dates for recording are as follows:
+**The devices and dates for recording are as follows:**
 
 Coastal Endurance › Oregon Shelf Surface Piercing Profiler Mooring
 
@@ -70,8 +70,7 @@ Cabled Array ›Axial Base Deep Profiler
 
 The data was analyzed utilizing the code found in the link above. First the data was imported, the variables needed were defined and the plots necessary were constructed. The resulting plots are seen below.
 
-
-
+![](Winter/DF1_Winter_timeVSdepth.png)
 
 
 
