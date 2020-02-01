@@ -10,7 +10,7 @@ It should be noted that although it is ideal to have all data collected on the s
 
 ## Background
 
-**The questions we are looking to solve are as follows:
+**The questions we are looking to solve are as follows:**
 
         1-Compare the number of dives per day of the shallow profiler vs the deep profiler.
 
