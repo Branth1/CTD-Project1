@@ -1,6 +1,6 @@
 # CTD-Project1
 https://colab.research.google.com/github/Branth1/CTD-Project1/blob/master/ME450Project1F.ipynb
-Description
+## Description
 
 This is a study of the variances in ocean conditions at 7 different locations during winter and summer. The data has been collected using CTD sensors and is available from the site listed below.
 
@@ -8,9 +8,9 @@ The comparisons to be made will be the changes in SSP during different seasons o
 
 It should be noted that although it is ideal to have all data collected on the same day, for some devices this was not possible.
 
-#Background
+## Background
 
-**The questions we are looking to solve are as follows:
+** The questions we are looking to solve are as follows:
 
         1-Compare the number of dives per day of the shallow profiler vs the deep profiler.
 
@@ -22,7 +22,7 @@ It should be noted that although it is ideal to have all data collected on the s
 
         5-Compare the SSP profiles of all profilers recorded at same day in summer and winter.
 
-**The devices and dates for recording are as follows:
+** The devices and dates for recording are as follows:
 
 Coastal Endurance › Oregon Shelf Surface Piercing Profiler Mooring
 
@@ -66,7 +66,7 @@ Cabled Array ›Axial Base Deep Profiler
 
                 -Winter 11/07/18-11/08/18
 
-#Solution/Results
+## Solution/Results
 
 The data was analyzed utilizing the code found in the link above. First the data was imported, the variables needed were defined and the plots necessary were constructed. The resulting plots are seen below.
 
@@ -75,9 +75,9 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 
 
-#Conclusions
+## Conclusions
 
-#References
+## References
 
 Data was downloaded from:
 https://oceanobservatories.org
