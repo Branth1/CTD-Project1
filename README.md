@@ -156,6 +156,12 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 ## Conclusions
 
+1. Comparing the # of dives per day for the shallow profiler in winter it has about 2 and summer about 4. For the deep profiler it has 12 in winter and about 2 in summer. It is important to note that some of the data sets may not have collected during the entire 24 hour period.
+2. In the summer we find the maximum SSP at Cabled Array \&gt; Oregon Slope Base Deep Profiler. In the winter the max SSP is found to be at the Coastal Endurance \&gt; Oregon Shelf Surface Piercing Profiler Mooring. The surface profiler is expected due to the increased SSP with a shallower depth. However, the deep profiler may be a result of location having the warmest waters at that time.
+3. When comparing the SSP profile for day and night, there appears to be a trend that the SSP is increased at night.
+4. Looking at the SSP profile for all profilers and comparing between winter and summer it would be expected that the profiles would have greater values in the summer due to the increased temperatures. This can be seen by the steeper slope visible in the winter graphs.
+5. It was attempted to find the average SSP profiles recorded at the same day in summer and winter for all profilers. However, some profilers only recorded during certain days, years, hours, etc. Due to this, the data was selected as closely as possible to the same day of month and the year may vary. Even with this variation, the average SSP for all profilers fit within the small range of 1480-1491. The Oregon slope shallow and Oregon shelf surface profilers appear to have the highest SSP values independent of season.
+
 ## References
 
 Data was downloaded from:
