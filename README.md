@@ -81,6 +81,79 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF1S_summer_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF1S_summer_depthVSssp.png)
+
+**Coastal Endurance › Oregon Offshore Cabled Shallow Profiler Mooring**
+
+**Winter**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF2_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF2_winter_depthVSssp.png)
+
+**Summer**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF2S_summer_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF2S_summer_depthVSssp.png)
+
+**Coastal Endurance › Oregon Offshore Cabled Deep Profiler Mooring**
+
+**Winter**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF3_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF3_winter_depthVSssp.png)
+
+**Summer**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF3S_summer_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF3S_summer_depthVSssp.png)
+
+**Cabled Array ›Oregon Slope Base Shallow Profiler**
+
+**Winter**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF4_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF4_winter_depthVSssp.png)
+
+**Summer**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF4S_summer_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF4S_summer_depthVSssp.png)
+
+**Cabled Array ›Oregon Slope Base Deep Profiler**
+
+**Winter**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF5_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF5_winter_depthVSssp.png)
+
+**Summer**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF5S_summer_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF5S_summer_depthVSssp.png)
+
+**Cabled Array ›Axial Base ShallowProfiler**
+
+**Winter**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF6_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF6_winter_depthVSssp.png)
+
+**Summer**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF6S_summer_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF6S_summer_depthVSssp.png)
+
+**Cabled Array ›Axial Base Deep Profiler**
+
+**Winter**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF7_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF7_winter_depthVSssp.png)
+
+**Summer**
+
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF7S_summer_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF7S_summer_depthVSssp.png)
+
 ## Conclusions
 
 ## References
