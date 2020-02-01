@@ -86,7 +86,7 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF2_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF2_winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF2_winter_depthVSssp.png)
 
 **Summer**
@@ -98,7 +98,7 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF3_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF3_winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF3_winter_depthVSssp.png)
 
 **Summer**
@@ -110,7 +110,7 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF4_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF4_winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF4_winter_depthVSssp.png)
 
 **Summer**
@@ -122,7 +122,7 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF5_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF5_winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF5_winter_depthVSssp.png)
 
 **Summer**
@@ -134,7 +134,7 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF6_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF6_winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF6_winter_depthVSssp.png)
 
 **Summer**
@@ -146,7 +146,7 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF7_Winter_timeVSdepth.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF7_winter_timeVSdepth.png)
 ![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF7_winter_depthVSssp.png)
 
 **Summer**
