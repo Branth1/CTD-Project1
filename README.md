@@ -79,8 +79,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF1S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF1S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/dfs1time.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/dfs1ssp.png)
 
 **Coastal Endurance › Oregon Offshore Cabled Shallow Profiler Mooring**
 
@@ -91,8 +91,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF2S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF2S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df2stime.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df2sssp.png)
 
 **Coastal Endurance › Oregon Offshore Cabled Deep Profiler Mooring**
 
@@ -103,8 +103,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF3S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF3S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df3stime.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df3sssp.png)
 
 **Cabled Array ›Oregon Slope Base Shallow Profiler**
 
@@ -115,8 +115,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF4S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF4S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df4stime.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df4sssp.png)
 
 **Cabled Array ›Oregon Slope Base Deep Profiler**
 
@@ -127,8 +127,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF5S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF5S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df5stime.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df5sssp.png)
 
 **Cabled Array ›Axial Base ShallowProfiler**
 
@@ -139,8 +139,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF6S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF6S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df6stime.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df6sssp.png)
 
 **Cabled Array ›Axial Base Deep Profiler**
 
@@ -151,8 +151,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Summer**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF7S_summer_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/Summer/DF7S_summer_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df7stime.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Summer/df7sssp.png)
 
 ## Conclusions
 
