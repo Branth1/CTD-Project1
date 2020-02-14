@@ -74,8 +74,8 @@ The data was analyzed utilizing the code found in the link above. First the data
 
 **Winter**
 
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF1_Winter_timeVSdepth.png)
-![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/Winter/DF1_winter_depthVSssp.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/df1time.png)
+![](https://raw.githubusercontent.com/Branth1/CTD-Project1/Winter/df1ssp.png)
 
 **Summer**
 
