@@ -6,7 +6,7 @@ This is a study of the variances in ocean conditions at 7 different locations du
 
 The comparisons to be made will be the changes in SSP during different seasons on approximately the same day as well as the changes over different times of day. The location of these tests and the impact it has on the results will also be taken into account.
 
-It should be noted that although it is ideal to have all data collected on the same day, for some devices this was not possible.
+It should be noted that although it is ideal to have all data collected on the same day, for some devices this was not possible. In addition, these data sets were selected at random and not all contain an accurate representation of the collection site. 
 
 ## Background
 
