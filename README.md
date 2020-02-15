@@ -1,6 +1,8 @@
 # CTD-Project1
-
-https://colab.research.google.com/github/Branth1/CTD-Project1/blob/master/ME450Project1F.ipynb
+Shared Colab Link:
+https://colab.research.google.com/drive/192fUpSEE84mDFuDUN75RruQosqzTSqDR
+GitHub Link:
+https://colab.research.google.com/github/Branth1/CTD-Project1/blob/master/Project1_CTDFinal.ipynb
 ## Description
 
 This is a study of the variances in ocean conditions at 7 different locations during winter and summer. The data has been collected using CTD sensors and is available from the site listed below.
