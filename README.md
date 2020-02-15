@@ -165,5 +165,5 @@ From the analysis conducted, the following conclusions were made:
 
 ## References
 
-Data was downloaded from:
+Data was downloaded from OOI:
 https://oceanobservatories.org
